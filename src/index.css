@@ -12,6 +12,11 @@ code {
     monospace;
 }
 
+h2 {
+  color: white;
+  text-align: center;
+}
+
 
 .main{
   display: grid;

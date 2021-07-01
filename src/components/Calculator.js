@@ -1,7 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import Title from './Title.js';
-import Output from './Output.js';
-import Outputrow from './Outputrow.js';
 import Button from './Button.js';
 import ClearButton from './ClearButton.js';
 import EqualsButton from './EqualsButton.js';
